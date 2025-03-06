@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@Html.ActionLink("Lista de USUARIOS", "Index", "Usuarios")
+<br />
+@Html.ActionLink("Lista de MEMBRESIAS", "Index", "Membresias")
+<br />
+@Html.ActionLink("Lista de LIBROS", "Index", "Libroes")
+<br />
+@Html.ActionLink("Lista de CATEGORIAS", "Index", "Categorias")
+<br />
+@Html.ActionLink("Lista de LIBROS CATEGORIAS", "Index", "LibroCategorias")

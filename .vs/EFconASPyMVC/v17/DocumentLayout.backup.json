@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EFconASPyMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|d:\\efconaspymvc\\efconaspymvc\\controllers\\librocategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\controllers\\librocategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|d:\\efconaspymvc\\efconaspymvc\\views\\librocategorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\views\\librocategorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|d:\\efconaspymvc\\efconaspymvc\\views\\librocategorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\views\\librocategorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|d:\\efconaspymvc\\efconaspymvc\\views\\librocategorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\views\\librocategorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|d:\\efconaspymvc\\efconaspymvc\\views\\librocategorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\views\\librocategorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|d:\\efconaspymvc\\efconaspymvc\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|d:\\efconaspymvc\\efconaspymvc\\models\\librocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\models\\librocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|d:\\efconaspymvc\\efconaspymvc\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|d:\\efconaspymvc\\efconaspymvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CEA8B4-C464-406C-82DC-A993E917C2E8}|EFconASPyMVC\\EFconASPyMVC.csproj|solutionrelative:efconaspymvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroCategoriasController.cs",
+              "DocumentMoniker": "D:\\EFconASPyMVC\\EFconASPyMVC\\Controllers\\LibroCategoriasController.cs",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\Controllers\\LibroCategoriasController.cs",
+              "ToolTip": "D:\\EFconASPyMVC\\EFconASPyMVC\\Controllers\\LibroCategoriasController.cs",
+              "RelativeToolTip": "EFconASPyMVC\\Controllers\\LibroCategoriasController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:04:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\EFconASPyMVC\\EFconASPyMVC\\Views\\LibroCategorias\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\Views\\LibroCategorias\\Delete.cshtml",
+              "ToolTip": "D:\\EFconASPyMVC\\EFconASPyMVC\\Views\\LibroCategorias\\Delete.cshtml",
+              "RelativeToolTip": "EFconASPyMVC\\Views\\LibroCategorias\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T14:43:26.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\EFconASPyMVC\\EFconASPyMVC\\Views\\LibroCategorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\Views\\LibroCategorias\\Create.cshtml",
+              "ToolTip": "D:\\EFconASPyMVC\\EFconASPyMVC\\Views\\LibroCategorias\\Create.cshtml",
+              "RelativeToolTip": "EFconASPyMVC\\Views\\LibroCategorias\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T14:43:20.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\EFconASPyMVC\\EFconASPyMVC\\Views\\LibroCategorias\\Details.cshtml",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\Views\\LibroCategorias\\Details.cshtml",
+              "ToolTip": "D:\\EFconASPyMVC\\EFconASPyMVC\\Views\\LibroCategorias\\Details.cshtml",
+              "RelativeToolTip": "EFconASPyMVC\\Views\\LibroCategorias\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T14:43:14.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\EFconASPyMVC\\EFconASPyMVC\\Views\\LibroCategorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\Views\\LibroCategorias\\Index.cshtml",
+              "ToolTip": "D:\\EFconASPyMVC\\EFconASPyMVC\\Views\\LibroCategorias\\Index.cshtml",
+              "RelativeToolTip": "EFconASPyMVC\\Views\\LibroCategorias\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T14:43:02.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibroCategoria.cs",
+              "DocumentMoniker": "D:\\EFconASPyMVC\\EFconASPyMVC\\Models\\LibroCategoria.cs",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\Models\\LibroCategoria.cs",
+              "ToolTip": "D:\\EFconASPyMVC\\EFconASPyMVC\\Models\\LibroCategoria.cs",
+              "RelativeToolTip": "EFconASPyMVC\\Models\\LibroCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:30:14.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\EFconASPyMVC\\EFconASPyMVC\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\Context\\MyDbContext.cs",
+              "ToolTip": "D:\\EFconASPyMVC\\EFconASPyMVC\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "EFconASPyMVC\\Context\\MyDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:28:37.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\EFconASPyMVC\\EFconASPyMVC\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\Models\\Libro.cs",
+              "ToolTip": "D:\\EFconASPyMVC\\EFconASPyMVC\\Models\\Libro.cs",
+              "RelativeToolTip": "EFconASPyMVC\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:03:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\EFconASPyMVC\\EFconASPyMVC\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "EFconASPyMVC\\Models\\Usuario.cs",
+              "ToolTip": "D:\\EFconASPyMVC\\EFconASPyMVC\\Models\\Usuario.cs",
+              "RelativeToolTip": "EFconASPyMVC\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:56:52.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
